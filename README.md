@@ -1,8 +1,8 @@
-# 📚 Books Sales EDA Project
+#  Books Sales EDA Project
 
 This project includes a simple **Exploratory Data Analysis (EDA)** performed on a Books Sales dataset.
 
-## 🔍 What I Did in This Project
+##  What I Did in This Project
 
 - Loaded and explored the dataset  
 - Checked for missing values  
@@ -10,19 +10,19 @@ This project includes a simple **Exploratory Data Analysis (EDA)** performed on 
 - Analyzed distributions and patterns  
 - Examined relationships between variables  
 
-## 📂 Project Files
+##  Project Files
 
 - **books-sales-eda.ipynb** — Main notebook containing all EDA steps  
 - **data/** — The dataset used in this analysis (if uploaded)
 
-## 🛠 Libraries Used
+##  Libraries Used
 
 - pandas  
 - numpy  
 - matplotlib  
 - seaborn  
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Download or clone this repository  
 2. Install the required Python libraries  
